@@ -28,10 +28,11 @@ thus making it very machine readable. It follows a set convention making it very
 machine-friendly. For example, Google even parses hCard microformats of webpages
 to further optimize search results. 
 
-
-
-
-
+Shane Riggs:
+The hCard microformat is used to organize contact information on a page. It standardizes
+the contact information such as names, phone numbers and addresses so that they are 
+more readily readable by a maching. This allows search engines to differentiate between 
+this important information and the rest of the text on the page.
 
 
 
