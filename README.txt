@@ -6,7 +6,7 @@ classes of title, or location, or skill all denote what they describe as far
 as the content for them goes. Also, the use of microformatting to display contact 
 information correlates with the goal of writing markup that is semantically correct. Using the 
 hCard microformat, we assign inituitive preset class names to common contact fields such
-as address (adr) and telephone number (tel). This conceptwill be expanded upon in a later section.
+as address (adr) and telephone number (tel). This concept will be expanded upon in a later section.
 
 There are a couple of
 non-semantic elements that we ended up using to make it easier to style the webpage. 
