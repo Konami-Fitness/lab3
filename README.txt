@@ -3,7 +3,8 @@
 The markup we chose for this lab is semantically correct in that our class names 
 are intuitive regarding the purpose of them in the document. So for example,
 classes of title, or location, or skill all denote what they describe as far
-as the content for them goes. Also, the use of microformatting to display contact information correlates with the goal of writing markup that is semantically correct. Using the 
+as the content for them goes. Also, the use of microformatting to display contact 
+information correlates with the goal of writing markup that is semantically correct. Using the 
 hCard microformat, we assign inituitive preset class names to common contact fields such
 as address (adr) and telephone number (tel). This conceptwill be expanded upon in a later section.
 
@@ -24,7 +25,8 @@ hCard is a microformat used to add semantic value to contact information in mark
 Its useful because it serves to standardize this information and have set 
 tag names that make sense to the context of contact information fields
 thus making it very machine readable. It follows a set convention making it very 
-machine-friendly. For example, Google even parses hCard microformats of webpages to further optimize search results. 
+machine-friendly. For example, Google even parses hCard microformats of webpages
+to further optimize search results. 
 
 
 
