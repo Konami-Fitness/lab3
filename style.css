@@ -20,6 +20,11 @@ li.page {
   text-align: center;
 }
 
+img {
+  border-radius: 10%;
+  border: 4px solid #d6e0f0;
+}
+
 p.slogan {
   padding-left: 140px;
   text-align: center;
