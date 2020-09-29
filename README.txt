@@ -34,6 +34,12 @@ the contact information such as names, phone numbers and addresses so that they 
 more readily readable by a maching. This allows search engines to differentiate between 
 this important information and the rest of the text on the page.
 
+Teddy Clark:
+The hCard microformat is used to standardize contact information among multiple entities. The naming
+convention is easy to follow and is semantically accurate as well. This allows it to be easily 
+read by screen readers and machines. Search engines can use it to further optimize their search results.
+Large companies such as Microsoft and Apple even use a vCard format which is similar to hCard, for the purpose
+of standardizing contact information.
 
 
 
