@@ -8,6 +8,7 @@ body {
 
 }
 
+
 h1 {
   text-align: center;
 
@@ -86,6 +87,8 @@ margin: 100px;
   margin: 0;
 }
 
+
+
 .right{
   float: right;
   margin: 0;
@@ -115,4 +118,9 @@ margin: 100px;
 
 .position {
   padding-left: 30px;
+}
+
+.pictures{
+  display: inline-block;
+  margin: 25px;
 }
