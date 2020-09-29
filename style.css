@@ -119,6 +119,11 @@ margin: 100px;
   padding-left: 30px;
 }
 
+.pictures{
+  display: inline-block;
+  margin: 25px;
+}
+
 a:link {
   color: #8d93ab;
   text-decoration: none;
