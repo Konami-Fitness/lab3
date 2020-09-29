@@ -8,6 +8,11 @@ body {
   background-color: #fcfdfd;  /* #fcfdfd #f1f3f8 #ffffe7 EBF0F6 f5f1da  22272  134510  39112*/
 }
 
+.vcard {
+  float: left;
+  text-align: left;
+}
+
 h1 {
   text-align: center;
 }
@@ -17,7 +22,7 @@ li.page {
 }
 
 .picture {
-  text-align: right;
+  text-align: left;
 }
 
 img {
