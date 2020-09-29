@@ -1,13 +1,30 @@
 body {
+
   font-family: Optima, helvetica, sans-serif;
   margin: 64px 88px 80px 88px;
   padding-bottom: 30px;
   box-sizing: border-box;
   background-color: #ffffe7; /*#ffffe7 EBF0F6 f5f1da  22272  134510  39112*/
+
 }
+
 
 h1 {
   text-align: center;
+
+}
+
+.picture {
+  text-align: center;
+}
+
+p.slogan {
+  padding-left: 140px;
+  text-align: center;
+  font: initial;
+  color:navy;
+  font-weight: bolder;
+
 }
 
 h2 {
@@ -33,13 +50,15 @@ p {
   margin: 0;
   padding: 0 0 16px 0;
 }
-
-img {
-  float: bottom;
-  max-width: 50%
-  max-height: auto;
+.team {
+  text-align: center
 }
 
+.page {
+display: inline-block;
+margin: 100px;
+
+}
 .title {
   font-weight: bold;
   display: inline;
@@ -56,14 +75,6 @@ img {
   font-variant: small-caps;
 }
 
-.picture{
-text-align: center;
-/*display: block;
-margin-left:auto;
-margin-right: auto;
-width: 50%;
-*/}
-
 .left{
   float: left;
   padding: 0;
@@ -76,9 +87,10 @@ width: 50%;
   margin: 0;
 }
 
+
+
 .right{
   float: right;
-  text-align: right;
   margin: 0;
 }
 
@@ -107,8 +119,3 @@ width: 50%;
 .position {
   padding-left: 30px;
 }
-
-.teammembers{
-  display:inline;
-}
-
